@@ -1,3 +1,4 @@
+# function to check if a list is an additive
 def additive_sequence(lists):
 	i=0
 	result=None
